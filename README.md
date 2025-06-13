@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Anjie!
 
-I'm a software engineer based in Houston, TX, with a degree in Computer Science from Texas A&M University (Class of 2025). I'm especially interested in applied AI and cryptography.
+I'm a software engineer from Houston with a degree in Computer Science from Texas A&M University (Class of 2025). I'm especially interested in applied AI and cryptography.
 
 🌐 [anjiezhou.dev](https://anjiezhou.dev)
 
