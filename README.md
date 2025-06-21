@@ -45,9 +45,9 @@ I'm a software engineer from Houston with a degree in Computer Science from Texa
 
 <b>Roadmap:</b>
 <ul>
-  <li>⧗ Auto-budgeting assistance</li>
-  <li>⧗ Bank data format class support</li>
-  <li>⧗ Trend forecasting and alert system</li>
+  <li>Auto-budgeting assistance</li>
+  <li>Bank data format class support</li>
+  <li>Trend forecasting and alert system</li>
 </ul>
 
 </td>
@@ -59,10 +59,10 @@ I'm a software engineer from Houston with a degree in Computer Science from Texa
 
 <b>Roadmap:</b>
 <ul>
-  <li>⧗ Refine landing page layout and animations</li>
-  <li>⧗ Populate blog with entries</li>
-  <li>⧗ Fully populate project data and images</li>
-  <li>⧗ Performance optimization and accessibility review</li>
+  <li>Refine landing page layout and animations</li>
+  <li>Populate blog with entries</li>
+  <li>Fully populate project data and images</li>
+  <li>Performance optimization and accessibility review</li>
 </ul>
 
 </td>
