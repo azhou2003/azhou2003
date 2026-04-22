@@ -10,7 +10,7 @@ I'm a software engineer from Houston. I love pushing directly to main!
 
 ### Contributed To
 
-I’m looking forward to contributing to open source projects and collaborative software efforts.
+I’m looking forward to contributing to open source projects.
 
 <!-- Example placeholder -->
 <!-- 
